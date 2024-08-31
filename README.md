@@ -35,4 +35,4 @@ Finalizado este proceso la app ya estara desplegada y funcionando 🚀🚀🚀 e
 > y sus credencianles son Servidor: mysql_db | Usuario: root | Contraseña: root
 
 
-**Fabián Alejandro Otálora Silva | Desarrollador Senior 🇨🇴 **
+**Fabián Alejandro Otálora Silva | Desarrollador Senior 🇨🇴**
