@@ -2,7 +2,7 @@
 
 ### Sistema de Gestión de Tareas
 
-La aplicación esta montada en Docker, para una facil instalacion en cualquier entorno
+La aplicación esta montada en Docker, para una facil instalacion en cualquier entorno, asi que previamente se debe contar con Docker instalado en el equipo.
 
 Esta hecha en Laravel 11, MySQL y PHP 8.3
 
