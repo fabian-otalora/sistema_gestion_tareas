@@ -48,7 +48,7 @@ class AuthController extends Controller
                         ->withSuccess('Bienvenid@!!');
         }
   
-        return redirect("login")->withError('Datos erroneos!');
+        return redirect("/")->withError('Datos erroneos!');
     }
 
       
