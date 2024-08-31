@@ -12,6 +12,9 @@ Esta hecha en Laravel 11, MySQL y PHP 8.3
 
 2. Ejecutar en la carpeta raiz, el siguiente comando
 
+<img width="417" alt="Captura de pantalla 2024-08-31 a la(s) 5 06 37 p  m" src="https://github.com/user-attachments/assets/de7de3c6-febc-4b35-9ba3-4de772980763">
+
+
 ```sh
     make setup
 ```
@@ -22,7 +25,9 @@ Esta hecha en Laravel 11, MySQL y PHP 8.3
     make data
 ```
 
-Finalizado este proceso ya esta desplegada y funcionando en el la direccion http://localhost:9000/public/
+Finalizado este proceso ya esta desplegada y funcionando 🚀🚀🚀 en el la direccion http://localhost:9000/public/
+
+<img width="526" alt="Captura de pantalla 2024-08-31 a la(s) 5 12 57 p  m" src="https://github.com/user-attachments/assets/bdb1306e-8dbf-4fce-b4db-c7573ab43069">
 
 
 
@@ -30,4 +35,4 @@ Finalizado este proceso ya esta desplegada y funcionando en el la direccion http
 > y sus credencianles son Servidor: mysql_db | Usuario: root | Contraseña: root
 
 
-**Fabián Alejandro Otálora Silva | Desarrollador Senior :colombia**
+**Fabián Alejandro Otálora Silva | Desarrollador Senior 🇨🇴 **
